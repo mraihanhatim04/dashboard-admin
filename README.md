@@ -122,19 +122,6 @@ The application uses mock authentication. You can login with any credentials:
 - `npm run start` - Start production server
 - `npm run lint` - Run ESLint
 
-## Deployment
-
-### Deploy ke Vercel
-
-1. **Push ke GitHub** terlebih dahulu (lihat `DEPLOYMENT_GUIDE.md`)
-2. Login ke [Vercel](https://vercel.com) dengan GitHub
-3. Import repository dari GitHub
-4. Klik Deploy (settings otomatis terdeteksi untuk Next.js)
-5. Tunggu build selesai (~2-3 menit)
-
-Vercel akan otomatis deploy ulang setiap kali Anda push ke GitHub.
-
-**Panduan lengkap**: Lihat `DEPLOYMENT_GUIDE.md` untuk instruksi detail.
 
 ## Browser Support
 
